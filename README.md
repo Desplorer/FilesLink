@@ -5,7 +5,7 @@
 
 This repository is for personal use only and is not intended for public access.
 ![alt landscape](https://wmimg.com/i/2117/2026/04/69d372130dec3.jpeg)
-[MyGithubPage](https://desplorer.github.io/
+[MyGithubPage](https://desplorer.github.io/)
 
 ---
 
